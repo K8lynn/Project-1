@@ -1,5 +1,5 @@
 body{
-  background-color:black;
+  background-color: #301934;
 }
 h1{
   color: white;
@@ -10,7 +10,7 @@ h1{
 }
 h2{
   color: gold;
-  font-family: hotel;
+  font-family: papyrus;
   font-size: 32px;
   padding: 16px;
 }
@@ -20,5 +20,7 @@ p{
   font-family: garamond;
   font-size: 18px;
   font-weight:bold;
-  margin-right: 200px;
+  margin-right: 400px;
+  padding: 16px ;
+  text-align: left;
 }
